@@ -1,0 +1,9 @@
+.about-place__link {
+  font-family: Inter;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: underline;
+  cursor: pointer;
+  color: #ffffff;
+}

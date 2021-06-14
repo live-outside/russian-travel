@@ -1,0 +1,7 @@
+.about-place__item-wrapper {
+  padding-block-end: 80px;
+}
+
+.about-place__item-wrapper:last-child {
+  padding-block-end: 92px;
+}

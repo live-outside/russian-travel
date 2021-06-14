@@ -1,0 +1,5 @@
+.about-place__pic {
+  width: 460px;
+  height: 460px;
+  object-fit: cover;
+}

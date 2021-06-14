@@ -10,6 +10,39 @@
 @import url(../blocks/header/__lang-switch/header__lang-switch.css);
 @import url(../blocks/header/__lang-el/header__lang-el.css);
 
+@import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__main-pic/lead__main-pic.css);
+@import url(../blocks/lead/__pic-description/lead__pic-description.css);
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__paragraph/intro__paragraph.css);
+@import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__list-count/intro__list-count.css);
+
+@import url(../blocks/photo-gallery/photo-gallery.css);
+@import url(../blocks/photo-gallery/__pic/photo-gallery__pic.css);
+
+@import url(../blocks/about-place/about-place.css);
+@import url(../blocks/about-place/__item-wrapper/about-place__item-wrapper.css);
+@import url(../blocks/about-place/__title-container/about-place__title-container.css);
+@import url(../blocks/about-place/__title/about-place__title.css);
+@import url(../blocks/about-place/__link-wrapper/about-place__link-wrapper.css);
+@import url(../blocks/about-place/__link-title/about-place__link-title.css);
+@import url(../blocks/about-place/__link/about-place__link.css);
+@import url(../blocks/about-place/__description/about-place__description.css);
+@import url(../blocks/about-place/__pic/about-place__pic.css);
+@import url(../blocks/about-place/__text/about-place__text.css);
+@import url(../blocks/about-place/__paragraph/about-place__paragraph.css);
+
+@import url(../blocks/cover/__background/cover__background.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+
+@import url(../blocks/cover/cover.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

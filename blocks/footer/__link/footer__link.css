@@ -1,0 +1,17 @@
+.footer__link {
+  font-family: Inter;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  color: #FFFFFF;
+  text-decoration: none;
+  padding-inline-start: 18px;
+}
+
+.footer__link:first-child {
+  padding-inline-start: 0;
+}
+
+.footer__link:hover {
+  text-decoration: underline;
+}

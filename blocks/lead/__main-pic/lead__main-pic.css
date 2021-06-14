@@ -1,8 +1,7 @@
 .lead__main-pic {
-  width: 984px;
-  height: 615px;
+  width: 100%;
   object-fit: cover;
-  padding: 0 148px 8px;
+  padding: 0 0 8px;
   margin-block: 0;
   margin-inline: auto;
 }

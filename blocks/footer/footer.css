@@ -1,5 +1,4 @@
-.header {
-  padding: 28px 0 56px;
+.footer {
   display: flex;
   justify-content: space-between;
 }

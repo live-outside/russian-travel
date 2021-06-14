@@ -1,0 +1,4 @@
+.photo-gallery__pic {
+  max-height: 213px;
+  object-fit: contain;
+}
