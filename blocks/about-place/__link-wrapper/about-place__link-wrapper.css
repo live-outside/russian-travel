@@ -30,6 +30,7 @@
 @media screen and (max-width: 320px) {
   .about-place__link-wrapper {
     align-self: flex-start;
+    padding-block-start: 0;
     padding-inline: 16px 0;
   }
 }
