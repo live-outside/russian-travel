@@ -15,6 +15,18 @@
   }
 }
 
+@media screen and (max-width: 670px) {
+  .about-place__link-wrapper {
+    padding-inline-start: 0;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .about-place__link-wrapper {
+    padding-block-start: 10px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .about-place__link-wrapper {
     align-self: flex-start;

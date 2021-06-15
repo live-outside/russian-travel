@@ -7,6 +7,15 @@
   width: 460px;
   margin-block: 0;
   margin-inline: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media screen and (max-width: 1024px) {
+  .about-place__title  {
+    font-size: 72px;
+    line-height: 76px;
+    width: 440px;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -22,7 +31,7 @@
     padding-block-end: 32px;
     font-size: 32px;
     line-height: 35px;
-    width: 340px;
+    width: 288px;
     padding-inline: 16px 0;
   }
 }

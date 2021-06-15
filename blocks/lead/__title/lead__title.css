@@ -8,12 +8,29 @@
   margin-block: 0;
   margin-inline: auto;
   padding: 0 0 32px;
+  -webkit-font-smoothing: antialiased;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 750px) {
   .lead__title {
     font-size: 40px;
     line-height: 44px;
     padding: 0 0 16px;
   }
 }
+
+/* @media screen and (max-width: 470px) {
+  .lead__title {
+    font-size: 50px;
+    line-height: 44px;
+    padding: 0 0 16px;
+  }
+} */
+
+/* @media screen and (max-width: 470px) {
+  .lead__title {
+    font-size: 40px;
+    line-height: 44px;
+    padding: 0 0 16px;
+  }
+} */

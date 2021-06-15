@@ -1,13 +1,12 @@
 .photo-gallery__pic {
-  max-height: 213px;
+  width: 100%;
   object-fit: contain;
 }
 
-@media screen and (max-width: 1279px) {
+/* @media screen and (max-width: 1280px) {
 
   .photo-gallery__pic {
-    max-height: 225px;
-    width: 100%;
-    object-fit: cover;
+    max-height: 284px;
   }
-}
+
+} */

@@ -10,4 +10,19 @@
   padding-inline: 0;
   padding-block-start: 0;
   padding-block-end: 92px;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media screen and (max-width: 768px) {
+  .intro__list {
+    padding-block-end: 88px;
+  }
+
+}
+
+@media screen and (max-width: 320px) {
+  .intro__list {
+    padding-block-end: 64px;
+  }
+
 }

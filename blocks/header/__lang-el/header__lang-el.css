@@ -3,6 +3,11 @@
   line-height: 28px;
   font-weight: normal;
   padding-inline-end: 18px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.header__lang-el:hover {
+  text-decoration: underline;
 }
 
 .header__lang-el:last-child {

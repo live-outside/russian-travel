@@ -6,4 +6,9 @@
   text-decoration: underline;
   cursor: pointer;
   color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+}
+
+.about-place__link:hover {
+  opacity: .8;
 }

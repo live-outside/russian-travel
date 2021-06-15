@@ -2,12 +2,14 @@
   display: flex;
 }
 
-.about-place__description {
-  display: flex;
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 670px) {
   .about-place__description {
     flex-wrap: wrap;
   }
 }
+
+/* @media screen and (max-width: 320px) {
+  .about-place__description {
+    flex-wrap: wrap;
+  }
+} */
