@@ -4,6 +4,7 @@
   padding-inline: 312px; */
   margin-block: 0;
   /* margin-inline: auto; */
+  max-width: 560px;
   box-sizing: border-box;
   font-family: Inter;
   font-style: normal;
@@ -12,4 +13,5 @@
   line-height: 76px;
   color: #FFFFFF;
   text-align: center;
+  z-index: 1;
 }

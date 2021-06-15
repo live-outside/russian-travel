@@ -1,4 +1,18 @@
 .cover {
+  padding-inline: 48px;
   padding-block-end: 92px;
   width: 100%;
 }
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    padding-inline: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    padding-block-end: 88px;
+  }
+}
+

@@ -1,8 +1,14 @@
 .lead {
-  padding: 0 100px;
+  padding: 0 148px;
 }
 
 @media (max-width: 1279px) {
+  .lead {
+    padding: 0 48px;
+  }
+}
+
+@media (max-width: 768px) {
   .lead {
     padding: 0;
   }

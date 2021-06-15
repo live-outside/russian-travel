@@ -3,3 +3,10 @@
   padding-block-start: 0;
   padding-block-end: 48px;
 }
+
+@media screen and (max-width: 320px) {
+  .about-place__title-container {
+    flex-direction: column;
+    padding-block-end: 32px;
+  }
+}

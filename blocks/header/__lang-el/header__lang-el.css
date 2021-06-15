@@ -1,5 +1,17 @@
 .header__lang-el {
   font-size: 24px;
   line-height: 28px;
-  font-weight: 400;
+  font-weight: normal;
+  padding-inline-end: 18px;
+}
+
+.header__lang-el:last-child {
+  padding-inline-end: 0;
+}
+
+@media (max-width: 320px) {
+  .header__lang-el {
+    font-size: 18px;
+    line-height: 20px;
+  }
 }

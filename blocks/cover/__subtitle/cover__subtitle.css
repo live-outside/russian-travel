@@ -3,6 +3,7 @@
   /* margin-inline: auto;
   padding-block: 0 245px;
   padding-inline: 412px; */
+  max-width: 360px;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -10,4 +11,5 @@
   line-height: 22px;
   text-align: center;
   color: #FFFFFF;
+  z-index: 1;
 }

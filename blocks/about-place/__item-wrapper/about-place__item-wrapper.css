@@ -5,3 +5,23 @@
 .about-place__item-wrapper:last-child {
   padding-block-end: 92px;
 }
+
+@media screen and (max-width: 768px) {
+  .about-place__item-wrapper {
+    padding-block-end: 73px;
+  }
+
+  .about-place__item-wrapper:last-child {
+    padding-block-end: 90px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .about-place__item-wrapper {
+    padding-block-end: 50px;
+  }
+
+  .about-place__item-wrapper:last-child {
+    padding-block-end: 66px;
+  }
+}

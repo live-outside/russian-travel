@@ -1,9 +1,22 @@
 .about-place {
-  padding: 0 100px;
+  padding: 0 148px;
 }
 
 @media screen and (max-width: 1279px) {
   .about-place {
-    padding: 0;
+    padding: 0 48px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .about-place {
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .about-place {
+    padding: 0 0;
+  }
+}
+

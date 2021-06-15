@@ -2,3 +2,22 @@
   align-self: flex-end;
   padding-inline-start: 40px;
 }
+
+@media screen and (max-width: 1024px) {
+  .about-place__link-wrapper {
+    padding-inline-start: 32px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .about-place__link-wrapper {
+    padding-inline-start: 28px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .about-place__link-wrapper {
+    align-self: flex-start;
+    padding-inline: 16px 0;
+  }
+}

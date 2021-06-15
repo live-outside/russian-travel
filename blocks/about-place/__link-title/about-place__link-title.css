@@ -5,4 +5,7 @@
   line-height: 12px;
   letter-spacing: .2em;
   color: #aaaaaa;
+  margin-block: 0;
+  margin-inline: 0;
+  padding-block-end: 12px;
 }

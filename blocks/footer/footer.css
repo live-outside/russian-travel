@@ -1,4 +1,12 @@
 .footer {
   display: flex;
   justify-content: space-between;
+  padding-inline: 48px;
+  padding-block-end: 24px;
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    padding-inline: 24px;
+  }
 }
