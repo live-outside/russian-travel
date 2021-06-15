@@ -1,8 +1,8 @@
 .cover__subtitle {
   margin-block: 0;
-  margin-inline: auto;
+  /* margin-inline: auto;
   padding-block: 0 245px;
-  padding-inline: 412px;
+  padding-inline: 412px; */
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
