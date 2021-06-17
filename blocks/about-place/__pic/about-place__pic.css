@@ -11,10 +11,25 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
+  .about-place__pic  {
+    width: 340px;
+    height: 340px;
+  }
+}
+
+
+/* @media screen and (max-width: 768px) {
   .about-place__pic {
     width: 340px;
     height: 340px;
+  }
+} */
+
+@media screen and (max-width: 680px) {
+  .about-place__pic  {
+    width: 300px;
+    height: 300px;
   }
 }
 

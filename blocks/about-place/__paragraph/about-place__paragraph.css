@@ -15,7 +15,6 @@
 @media screen and (max-width: 1024px) {
   .about-place__paragraph {
     padding-inline-start: 32px;
-
     max-width: 456px;
   }
 }
@@ -43,6 +42,7 @@
 @media screen and (max-width: 320px) {
   .about-place__paragraph  {
     padding-inline: 16px;
+    padding-block-start: 0;
   }
 
   .about-place__paragraph:last-child {

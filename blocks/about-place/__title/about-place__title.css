@@ -16,11 +16,17 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .about-place__title  {
+    width: 340px;
     font-size: 42px;
     line-height: 46px;
-    width: 340px;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .about-place__title  {
+    width: 300px;
   }
 }
 
