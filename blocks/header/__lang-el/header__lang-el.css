@@ -5,6 +5,7 @@
   padding-inline-start: 18px;
   -webkit-font-smoothing: antialiased;
   color: #ffffff;
+  text-decoration: none;
 }
 
 .header__lang-el:hover {
