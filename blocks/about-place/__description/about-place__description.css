@@ -2,7 +2,7 @@
   display: flex;
 }
 
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 680px) {
   .about-place__description {
     flex-wrap: wrap;
   }
