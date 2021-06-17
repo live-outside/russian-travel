@@ -12,6 +12,7 @@
   background-image: url("../../../images/cover-trains.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .cover__link::before {
@@ -24,7 +25,7 @@
 }
 
 .cover__link:hover::before {
-  background: rgba(42, 44, 47,.5);
+  background: rgba(42, 44, 47,.8);
 }
 
 @media screen and (max-width: 1024px) {

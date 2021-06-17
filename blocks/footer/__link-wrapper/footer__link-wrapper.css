@@ -1,0 +1,18 @@
+.footer__link-wrapper {
+  padding-inline-start: 18px;
+}
+
+.footer__link-wrapper:first-child {
+  padding-inline-start: 0;
+}
+
+@media screen and (max-width: 750px){
+  .footer__link-wrapper {
+    padding-block-end: 32px;
+    padding-inline-start: 0;
+  }
+
+  .footer__link-wrapper:last-child {
+    padding-block-end: 48px;
+  }
+}

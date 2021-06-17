@@ -1,11 +1,10 @@
 .footer__link {
-  font-family: Inter;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
   font-weight: normal;
   font-size: 16px;
   line-height: 18px;
   color: #FFFFFF;
   text-decoration: none;
-  padding-inline-start: 18px;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -13,23 +12,9 @@
   opacity: .8;
 }
 
-.footer__link:first-child {
-  padding-inline-start: 0;
-}
-
-.footer__link:hover {
-  text-decoration: underline;
-}
-
 @media screen and (max-width: 750px){
   .footer__link {
-    padding-block-end: 32px;
-    padding-inline-start: 0;
     font-size: 24px;
     line-height: 24px;
-  }
-
-  .footer__link:last-child {
-    padding-block-end: 48px;
   }
 }
